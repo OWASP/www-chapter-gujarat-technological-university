@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Gujarat Technological University - Student Chapter
-tags: example-tag
+tags: 
 region: Asia
 meetup-group:
 
