@@ -16,7 +16,7 @@ meetup-group:
 ![GTU_Logo](https://github.com/user-attachments/assets/0f01163e-41a9-4fa4-80e4-4fcd44908696)
 
 
-OWASP GTU-Graduate school of Engineering and Technology was founded in August 2021. We are a group of technical skilled college students on a mission to disseminate the Cyber Awareness to our societies, and Sharpening up Cyber security skills for our Students of GTU-GSET! The chapter presents many opportunities to the software community to secure application development, Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking and many more. Join our enthusiastic team to make Cyber Space a Better Place!
+OWASP GTU-School of Engineering and Technology was founded in August 2021. We are a group of technical skilled college students on a mission to disseminate the Cyber Awareness to our societies, and Sharpening up Cyber security skills for our Students of GTU-SET! The chapter presents many opportunities to the software community to secure application development, Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking and many more. Join our enthusiastic team to make Cyber Space a Better Place!
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
