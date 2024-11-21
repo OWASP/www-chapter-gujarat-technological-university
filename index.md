@@ -13,7 +13,6 @@ meetup-group:
 
 ## Welcome
 ![logo](https://user-images.githubusercontent.com/89657173/136672956-dc3689fb-106d-4803-9768-32130ab2f33f.png)
-![GTU_Logo](https://github.com/user-attachments/assets/0f01163e-41a9-4fa4-80e4-4fcd44908696)
 
 
 OWASP GTU-School of Engineering and Technology was founded in August 2021. We are a group of technical skilled college students on a mission to disseminate the Cyber Awareness to our societies, and Sharpening up Cyber security skills for our Students of GTU-SET! The chapter presents many opportunities to the software community to secure application development, Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking and many more. Join our enthusiastic team to make Cyber Space a Better Place!
