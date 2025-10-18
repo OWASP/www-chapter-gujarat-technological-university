@@ -1,0 +1,20 @@
+leaders:
+  - name: Seema B. Joshi
+    email: seema.joshi@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Gujarat
+  city: Ahmedabad
+  latitude: 23.0245252
+  longitude: 72.5308057
+name: OWASP Gujarat Technological University - Student Chapter
+repositories:
+  - name: www-chapter-gujarat-technological-university
+    url: https://github.com/OWASP/www-chapter-gujarat-technological-university
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-gujarat-technological-university
